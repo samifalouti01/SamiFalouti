@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, ArrowUp } from 'lucide-react';
+import samFal from '../../SamFal.svg';
 
 export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false);
@@ -28,7 +29,7 @@ export default function Navigation() {
           <div className="flex justify-between items-center h-16">
             <a href="#" className="flex items-center">
               <img 
-                src="SamFal.svg" 
+                src={samFal}
                 alt="Logo" 
                 className="h-16 w-auto"
                 loading="lazy"
