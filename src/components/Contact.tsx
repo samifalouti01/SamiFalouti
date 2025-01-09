@@ -11,7 +11,7 @@ export default function Contact() {
     {
       icon: MessageSquare,
       label: 'WhatsApp',
-      values: ['+213549194814']
+      link: 'https://www.facebook.com/samifalouti1'
     },
     {
       icon: Facebook,
