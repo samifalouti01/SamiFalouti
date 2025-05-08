@@ -31,7 +31,7 @@ export default function Navigation() {
               <img 
                 src={samFal}
                 alt="Logo" 
-                className="h-16 w-auto"
+                className="h-24 w-auto"
                 loading="lazy"
               />
             </a>
@@ -41,6 +41,7 @@ export default function Navigation() {
               <a href="#about" className="text-gray-700 hover:text-gray-900">About</a>
               <a href="#experience" className="text-gray-700 hover:text-gray-900">Experience</a>
               <a href="#portfolio" className="text-gray-700 hover:text-gray-900">Portfolio</a>
+              <a href="#portfolio" className="text-gray-700 hover:text-gray-900">E-commerce</a>
               <a href="#contact" className="text-gray-700 hover:text-gray-900">Contact</a>
             </div>
 
@@ -60,6 +61,7 @@ export default function Navigation() {
               <a href="#about" className="block px-3 py-2 text-gray-700 hover:text-gray-900">About</a>
               <a href="#experience" className="block px-3 py-2 text-gray-700 hover:text-gray-900">Experience</a>
               <a href="#portfolio" className="block px-3 py-2 text-gray-700 hover:text-gray-900">Portfolio</a>
+              <a href="#portfolio" className="block px-3 py-2 text-gray-700 hover:text-gray-900">E-commerce</a>
               <a href="#contact" className="block px-3 py-2 text-gray-700 hover:text-gray-900">Contact</a>
             </div>
           </div>

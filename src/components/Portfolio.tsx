@@ -14,16 +14,29 @@ export default function Portfolio() {
 
   // Replace these with your actual project images
   const galleryItems = {
+    'Landing Pages': [
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/avec-commentaire.png?w=117',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/copy-of-d8b5d981d8add8a7d8aa-d987d8a8d988d8b7-d8acd8a7d987d8b2d8a9-d984d984d8aad8b9d8afd98ad984-d8b9d984d989-d983d8a7d986d981d8a7.png?w=117',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/copy-of-d8b5d981d8add8a7d8aa-d987d8a8d988d8b7-d8acd8a7d987d8b2d8a9-d984d984d8aad8b9d8afd98ad984-d8b9d984d989-d983d8a7d986d981d8a7-1.png?w=117',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/itv6zkmbmrnftmur1w89tovndgw01z1fqnr9a2wl.webp?w=193',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/jj6usz1twwlxkawxlqfbkpx1clrddok1niizrvgn_md.png?w=408',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/2000-dz.png',
+    ],
     Logos: [
       'https://samifalouti.wordpress.com/wp-content/uploads/2024/01/frame-1171275502.png',
       'https://samifalouti.wordpress.com/wp-content/uploads/2024/01/frame-427320128.png',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-427320463.png?w=1024', // mna w roh
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-12-2.png?w=1022',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-2.png?w=1024',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/untitled-design-5.png?w=300',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-15.png?w=1024',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/ic-1.png?w=768',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/untitled-5.png?w=768',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-427320467.png',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-427320273.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-14670.png?w=1024',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/untitled-design-1.png?w=300',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/avodz-3.png?w=768',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-427320461.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-427320462.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/frame-427320464.png?w=1024',
@@ -33,6 +46,7 @@ export default function Portfolio() {
       'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/untitled-1-1.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/logo.png',
       'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/screenshot-2023-09-08-005750.jpg',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/screenshot-2025-04-14-232745.jpg?w=272',
     ],
     Banners: [
       'https://images.unsplash.com/photo-1557683304-673a23048d34?w=800',
@@ -54,6 +68,7 @@ export default function Portfolio() {
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/d8a8d8b1d8ac-d8aed984d98ad981d8a9-1.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/dfzdsdef.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/green-and-purple-professional-service-pricing-flyer.png?w=768',
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/2000-dz.png',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/untitled-design.gif?w=1024',
     ],
     Flyers: [
@@ -119,16 +134,20 @@ export default function Portfolio() {
       url: "https://whenrak.dz/",
     },
     {
-      title: "Dz Crypto Earn",
-      url: "https://dzcryptoearn.netlify.app/",
+      title: "Simple E-commerce Website",
+      url: "https://ecommerce-pi-six-51.vercel.app/",
     },
     {
       title: "E-commerce landing page",
-      url: "https://dzeasy.netlify.app/mysportie2/index.html",
+      url: "https://ecommerce-pi-six-51.vercel.app/product/1",
     },
     {
       title: "E-commerce landing page 2",
-      url: "https://dzeasy.netlify.app/mysportie/index.html",
+      url: "https://ecommerce-pi-six-51.vercel.app/product/22",
+    },
+    {
+      title: "Dz Crypto Earn",
+      url: "https://dzcryptoearn.netlify.app/",
     },
     {
       title: "English Sensei (Educational Web App)",
@@ -163,7 +182,8 @@ export default function Portfolio() {
 
   const projects = {
     graphic: [
-      { type: 'Logos', count: 18 },
+      { type: 'Landing Pages', count: 6 },
+      { type: 'Logos', count: 23 },
       { type: 'Social Media Posts', count: 6 },
       { type: 'Brand Identity', count: 15 },
       { type: 'Packaging', count: 8 }
