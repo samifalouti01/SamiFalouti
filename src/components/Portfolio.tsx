@@ -135,11 +135,11 @@ export default function Portfolio() {
     },
     {
       title: "Simple E-commerce Website",
-      url: "https://ecommerce-pi-six-51.vercel.app/",
+      url: "https://webcom-tau.vercel.app/",
     },
     {
       title: "E-commerce landing page",
-      url: "https://ecommerce-pi-six-51.vercel.app/product/1",
+      url: "https://webcom-tau.vercel.app/product/3541c6aa-6766-4923-8092-d83de93b81e4",
     },
     {
       title: "E-commerce landing page 2",
