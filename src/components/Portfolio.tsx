@@ -134,16 +134,12 @@ export default function Portfolio() {
       url: "https://whenrak.dz/",
     },
     {
-      title: "Simple E-commerce Website",
+      title: "Professional E-commerce Website",
       url: "https://webcom-tau.vercel.app/",
     },
     {
       title: "E-commerce landing page",
       url: "https://webcom-tau.vercel.app/product/3541c6aa-6766-4923-8092-d83de93b81e4",
-    },
-    {
-      title: "E-commerce landing page 2",
-      url: "https://ecommerce-pi-six-51.vercel.app/product/22",
     },
     {
       title: "Dz Crypto Earn",
