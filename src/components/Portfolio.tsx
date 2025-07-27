@@ -126,12 +126,20 @@ export default function Portfolio() {
 
   const web = [
     {
+      title: "AiSool",
+      url: "https://aisool.com/",
+    },
+    {
       title: "Mensrich",
       url: "https://mensrich.com/",
     },
     {
       title: "WhenRak",
       url: "https://whenrak.dz/",
+    },
+    {
+      title: "Eurl MigaJob",
+      url: "https://migajob.com/",
     },
     {
       title: "Professional E-commerce Website",

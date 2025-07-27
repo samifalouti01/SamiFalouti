@@ -28,8 +28,16 @@ export default function Hero() {
       logo: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'
     },
     {
+      name: 'Tailwind CSS',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png'
+    },
+    {
       name: 'JavaScript',
       logo: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'
+    },
+    {
+      name: 'TypeScript',
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png'
     },
     {
       name: 'Python',
@@ -49,15 +57,15 @@ export default function Hero() {
     },
     {
       name: 'Illustrator',
-      logo: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg'
+      logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png'
     },
     {
       name: 'Photoshop',
-      logo: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg'
+      logo: 'https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxhfRM_njI7Pu32CmBLMdmnnzF6MdNHw4MJwlr.tSWLA2EJBQdZh0p3nNDzGvX2F6NoIc9ZSQ9xJqsGEg5bouOnA-&format=source'
     },
     {
       name: 'Canva',
-      logo: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg'
+      logo: 'https://cdn-1.webcatalog.io/catalog/canva-cn/canva-cn-icon-unplated.png?v=1751244609454'
     }
   ];
 

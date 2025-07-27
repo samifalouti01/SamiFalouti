@@ -16,9 +16,34 @@ export default function Experience() {
       description: 'Led design projects and created user interfaces for various clients.'
     },
     {
+      title: 'Graphic Designer',
+      company: 'Eventcom Agency',
+      location: 'Skikda',
+      period: '2018 - 2019',
+      description: 'Designed and produced graphic materials for various events and campaigns.'
+    },
+    {
+      title: 'UI UX Designer & Full Stack Developer',
+      company: 'DigitariaWeb Agency',
+      period: '2024 - 2025',
+      description: 'Developing and maintaining web applications using modern technologies.'
+    },
+    {
       title: 'Full Stack Developer',
       company: 'Khademni MLM Company',
-      period: '2021 - Present',
+      period: '2021 - 2023',
+      description: 'Developing and maintaining web applications using modern technologies.'
+    },
+    {
+      title: 'Full Stack Developer',
+      company: 'AiSool Company',
+      period: '2025 - Present',
+      description: 'Developing and maintaining web applications using modern technologies.'
+    },
+    {
+      title: 'Full Stack Developer',
+      company: 'TaxuGo Company',
+      period: '2025 - Present',
       description: 'Developing and maintaining web applications using modern technologies.'
     }
   ];

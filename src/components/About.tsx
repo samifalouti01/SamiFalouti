@@ -42,15 +42,15 @@ export default function About() {
               <div className="space-y-3">
                 <div className="flex items-center space-x-2">
                   <Award className="w-5 h-5 text-blue-600" />
-                  <span>CEO at ViteFait</span>
+                  <span>CEO at AiSool</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Award className="w-5 h-5 text-blue-600" />
-                  <span>CEO at MensRich</span>
+                  <span>CEO at TaxuGo</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Award className="w-5 h-5 text-blue-600" />
-                  <span>Full Stack Developer at Khademni MLM Company</span>
+                  <span>Full Stack Developer at DigitariaWeb Company</span>
                 </div>
               </div>
             </div>
