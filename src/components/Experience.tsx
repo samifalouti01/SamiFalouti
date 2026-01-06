@@ -9,6 +9,13 @@ export default function Experience() {
       description: 'Working on various projects as a graphic designer, UI/UX designer, and full stack developer.'
     },
     {
+      title: 'Graphic Designer',
+      company: 'Eventcom Agency',
+      location: 'Skikda',
+      period: '2018 - 2019',
+      description: 'Designed and produced graphic materials for various events and campaigns.'
+    },
+    {
       title: 'Graphic & UI/UX Designer',
       company: 'RightUp Agency',
       location: 'Skikda',
@@ -16,11 +23,10 @@ export default function Experience() {
       description: 'Led design projects and created user interfaces for various clients.'
     },
     {
-      title: 'Graphic Designer',
-      company: 'Eventcom Agency',
-      location: 'Skikda',
-      period: '2018 - 2019',
-      description: 'Designed and produced graphic materials for various events and campaigns.'
+      title: 'Full Stack Developer',
+      company: 'Khademni MLM Company',
+      period: '2021 - 2023',
+      description: 'Developing and maintaining web applications using modern technologies.'
     },
     {
       title: 'UI UX Designer & Full Stack Developer',
@@ -30,21 +36,21 @@ export default function Experience() {
     },
     {
       title: 'Full Stack Developer',
-      company: 'Khademni MLM Company',
-      period: '2021 - 2023',
+      company: 'TaxuGo Company',
+      period: '2025',
       description: 'Developing and maintaining web applications using modern technologies.'
     },
     {
-      title: 'Full Stack Developer',
+      title: 'CEO & Co-founder',
       company: 'AiSool Company',
       period: '2025 - Present',
       description: 'Developing and maintaining web applications using modern technologies.'
     },
     {
-      title: 'Full Stack Developer',
-      company: 'TaxuGo Company',
+      title: 'Assistant de direction',
+      company: 'Eurl Ines Santé',
       period: '2025 - Present',
-      description: 'Developing and maintaining web applications using modern technologies.'
+      description: 'Assisting in the direction of the company.'
     }
   ];
 

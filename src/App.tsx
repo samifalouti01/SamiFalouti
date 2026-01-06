@@ -7,6 +7,7 @@ const Services = React.lazy(() => import('./components/Services'));
 const About = React.lazy(() => import('./components/About'));
 const Experience = React.lazy(() => import('./components/Experience'));
 const Portfolio = React.lazy(() => import('./components/Portfolio'));
+const Video = React.lazy(() => import('./components/Video'));
 const Contact = React.lazy(() => import('./components/Contact'));
 
 function App() {
@@ -26,6 +27,9 @@ function App() {
         </Suspense>
         <Suspense fallback={<div className="h-screen flex items-center justify-center">Loading...</div>}>
           <Portfolio />
+        </Suspense>
+        <Suspense fallback={<div className="h-screen flex items-center justify-center">Loading...</div>}>
+          <Video />
         </Suspense>
         <Suspense fallback={<div className="h-screen flex items-center justify-center">Loading...</div>}>
           <Contact />

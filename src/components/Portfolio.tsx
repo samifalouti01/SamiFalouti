@@ -63,6 +63,7 @@ export default function Portfolio() {
       'https://samifalouti.wordpress.com/wp-content/uploads/2024/02/2.png?w=512',
     ],
     'Social Media Posts': [
+      'https://samifalouti.wordpress.com/wp-content/uploads/2023/09/match.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/blue-downhill-extreme-sport-instagram-post.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/belhia-diaa-el-quods.png?w=1024',
       'https://samifalouti.wordpress.com/wp-content/uploads/2025/01/d8a8d8b1d8ac-d8aed984d98ad981d8a9-1.png?w=1024',
@@ -128,6 +129,10 @@ export default function Portfolio() {
     {
       title: "AiSool",
       url: "https://aisool.com/",
+    },
+    {
+      title: "Ines Santé Satrtup Incubateur",
+      url: "https://inessanteincubateur.com/",
     },
     {
       title: "Mensrich",
